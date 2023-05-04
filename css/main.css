@@ -1,0 +1,22 @@
+.main-slide1 {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/main-img1.jpg);
+}
+.main-slide2 {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/main-img2.jpeg);
+}
+.main-slide3 {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/main-img3.png);
+}
+.social-media {
+    background: url(../img/ecology-ngo-home-campains_bg.jpg);
+}
+.main-calendar {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/calendar-img1.jpg);
+}
+.calendar {
+    padding: 50px 0;
+    background: url(../img/ecology-ngo-home-campains_bg.jpg);
+}
+.calculator-bg {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/calculator.png);
+}
