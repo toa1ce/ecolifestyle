@@ -1,0 +1,59 @@
+.about {
+    padding: 100px 0;
+}
+.title {
+    margin-bottom: 70px;
+}
+.about-content {
+    display: flex;
+}
+.about-content-img img {
+    width: 630px;
+    height: 480px;
+    margin-left: 50px;
+}
+.advice {
+    padding-bottom: 100px;
+}
+.advice-conent {
+    display: flex;
+}
+.advice-conent_card {
+    width: 400px;
+    margin: auto;
+    text-align: center;
+}
+.advice-conent-card-img {
+    margin-bottom: 20px;
+}
+.advice-conent-card-text p {
+    font-size: 18px;
+}
+
+@media(max-width: 425px) and (min-width: 320px) {
+    .about-content-img img {
+        width: 100%;
+        height: auto;
+        margin: 0;
+    }
+    .about-content {
+        display: block;
+    }
+    .advice-conent {
+        display: block;
+    }
+    .advice-conent_card {
+        width: 100%;
+        margin-bottom: 50px;
+    }
+    nav {
+        display: flex !important;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px;
+        color: #FFF;
+    }
+    .navbar {
+        display: none;
+    }
+}
